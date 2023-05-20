@@ -1,1 +1,1 @@
-# space invaders
+# SpaceInvaders Version 1.0
